@@ -12,3 +12,19 @@ function countDownAndUp(number) {
 }
 
 countDownAndUp(5);
+/* Expected output
+
+    5
+    4
+    3
+    2
+    1
+    0
+    Base case
+    1 count back
+    2 count back
+    3 count back
+    4 count back
+    5 count back
+
+*/
